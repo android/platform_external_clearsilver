@@ -1,7 +1,6 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_MODULE_TAGS := docs
 LOCAL_SRC_FILES:= \
 	neo_err.c \
 	neo_files.c \
